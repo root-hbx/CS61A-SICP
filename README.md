@@ -1,4 +1,4 @@
-# Structure-and-Interpretation-of-Computer-Programs-SICP-
+# CS61A: Structure and Interpretation of Computer Programs
 
 >This is my note concerning Structure-and-Interpretation-of-Computer-Programs
 
